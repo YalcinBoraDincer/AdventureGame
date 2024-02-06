@@ -188,7 +188,7 @@ Added new locations --> Mine
 Added new bosses for mine --> Snakes
 
 
-Added 50 percent chance that the computer or the user would make the first move at the start of the game --> in the old verisoynda it always started with the user
+Added 50 percent chance that the computer or the user would make the first move at the start of the game --> in the old verion it always started with the user
 
 
 
